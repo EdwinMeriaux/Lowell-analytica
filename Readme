@@ -1,0 +1,5 @@
+Task was to create a system to vote in a fake virtual election.
+
+Script launches an incognito mode chrome page to allow for multiple voting. The voting system recognizes the same chrome page but not different incognito mode pages.
+
+Voting wait takes random amount of time (random time pause) to mimic real users and not a bot.
